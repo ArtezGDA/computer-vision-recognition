@@ -1,6 +1,11 @@
 import gab.opencv.*;
 import processing.video.*;
 import java.awt.*;
+import ddf.minim.*;
+
+AudioPlayer player;
+Minim minim;//audio context
+
 
 Capture video;
 OpenCV opencv;
@@ -15,7 +20,14 @@ void setup() {
   video.start();
 
   img = loadImage("fibon.png");
+
+minim = new Minim(this);
+  player = minim.loadFile("Censor Beep Sound Effect.mp3", 2048);
+  player.play();
+
 }
+
+
 
 void draw() {
   scale(2);
@@ -128,13 +140,20 @@ void draw() {
     }
   }
   
-  if (gevonden ) {
+  if (gevonden = true) {
     // doe iets als gevonden
   } else {
     // doe iets als niet gevonden
   }
 }
 
-void captureEvent(Capture c) {
-  c.read();
+//void captureEvent(Capture c) {
+ // c.read();
+}
+
+void stop()
+{
+  player.close();
+  minim.stop();
+  super.stop();
 }
