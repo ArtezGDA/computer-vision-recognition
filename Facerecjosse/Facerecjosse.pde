@@ -86,39 +86,39 @@ void draw() {
     {
       gevonden = true;
     }
-    if (((verhouding1 > phi_min) && (verhouding4 < phi_max)) || ((verhouding4 < phi_inv_min) && (verhouding4 > phi_inv_max))) 
+    if (((verhouding4 > phi_min) && (verhouding4 < phi_max)) || ((verhouding4 < phi_inv_min) && (verhouding4 > phi_inv_max))) 
     {
       gevonden = true;
     }
-    if (((verhouding1 > phi_min) && (verhouding5 < phi_max)) || ((verhouding5 < phi_inv_min) && (verhouding5 > phi_inv_max))) 
+    if (((verhouding5 > phi_min) && (verhouding5 < phi_max)) || ((verhouding5 < phi_inv_min) && (verhouding5 > phi_inv_max))) 
     {
       gevonden = true;
     }
-     if (((verhouding1 > phi_min) && (verhouding6 < phi_max)) || ((verhouding6 < phi_inv_min) && (verhouding6 > phi_inv_max))) 
+     if (((verhouding6 > phi_min) && (verhouding6 < phi_max)) || ((verhouding6 < phi_inv_min) && (verhouding6 > phi_inv_max))) 
     {
       gevonden = true;
     }
-     if (((verhouding1 > phi_min) && (verhouding7 < phi_max)) || ((verhouding7 < phi_inv_min) && (verhouding7 > phi_inv_max))) 
+     if (((verhouding7 > phi_min) && (verhouding7 < phi_max)) || ((verhouding7 < phi_inv_min) && (verhouding7 > phi_inv_max))) 
     {
       gevonden = true;
     }
-     if (((verhouding1 > phi_min) && (verhouding8 < phi_max)) || ((verhouding8 < phi_inv_min) && (verhouding8 > phi_inv_max))) 
+     if (((verhouding8 > phi_min) && (verhouding8 < phi_max)) || ((verhouding8 < phi_inv_min) && (verhouding8 > phi_inv_max))) 
     {
       gevonden = true;
     }
-     if (((verhouding1 > phi_min) && (verhouding9 < phi_max)) || ((verhouding9 < phi_inv_min) && (verhouding9 > phi_inv_max))) 
+     if (((verhouding9 > phi_min) && (verhouding9 < phi_max)) || ((verhouding9 < phi_inv_min) && (verhouding9 > phi_inv_max))) 
     {
       gevonden = true;
     }
-     if (((verhouding1 > phi_min) && (verhouding10 < phi_max)) || ((verhouding10 < phi_inv_min) && (verhouding10 > phi_inv_max))) 
+     if (((verhouding10 > phi_min) && (verhouding10 < phi_max)) || ((verhouding10 < phi_inv_min) && (verhouding10 > phi_inv_max))) 
     {
       gevonden = true;
     }
-     if (((verhouding1 > phi_min) && (verhouding11 < phi_max)) || ((verhouding11 < phi_inv_min) && (verhouding11 > phi_inv_max))) 
+     if (((verhouding11 > phi_min) && (verhouding11 < phi_max)) || ((verhouding11 < phi_inv_min) && (verhouding11 > phi_inv_max))) 
     {
       gevonden = true;
     }
-     if (((verhouding1 > phi_min) && (verhouding12 < phi_max)) || ((verhouding12 < phi_inv_min) && (verhouding12 > phi_inv_max))) 
+     if (((verhouding12 > phi_min) && (verhouding12 < phi_max)) || ((verhouding12 < phi_inv_min) && (verhouding12 > phi_inv_max))) 
     {
       gevonden = true;
     }
