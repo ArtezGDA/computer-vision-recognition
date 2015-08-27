@@ -15,9 +15,6 @@ There are sliders to set some of the OpenCV parameters.
 **Line Finding**  
 ![line_finder.png](https://github.com/ArtezGDA/computer-vision-recognition/blob/master/screenshots/line_finder.png)
 
-**Line Finding (old version)**  
-![line_finder.png](https://github.com/ArtezGDA/computer-vision-recognition/blob/master/screenshots/canny_hough.png)
-
 ## Face detection with Fibonacci searching
 
 The Face detection with Fibonacci project (`Josse_Face_detection_2_goldenratio`) is build by Josse Hermsen.  
