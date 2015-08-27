@@ -12,6 +12,11 @@ The Line Finder sketch (`opencv_line_finder`) can be a start of a project which 
 All images and contours and lines drawn are mirrored, so the sketch can be played with using a coder-faced camera (typically the camera in your laptop) more easily.  
 There are sliders to set some of the OpenCV parameters.
 
+**Line Finding**  
+![line_finder.png](https://github.com/ArtezGDA/computer-vision-recognition/blob/master/screenshots/line_finder.png)
+
+**Line Finding (old version)**  
+![line_finder.png](https://github.com/ArtezGDA/computer-vision-recognition/blob/master/screenshots/canny_hough.png)
 
 ## Face detection with Fibonacci searching
 
